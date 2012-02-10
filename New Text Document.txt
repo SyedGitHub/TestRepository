@@ -13,5 +13,9 @@ Muthu is helping us
 >>>>>>> a2194bfc7b6453788e09e24674e07d42a5beb6c1
 Now we are with Kireeti
 
+<<<<<<< HEAD
 It based on Basanth comments, check the HEAD and other symbols. We changed in same line from local.
+=======
+It based on Basanth comments, check the HEAD and other symbols. This is from server in same line.
+>>>>>>> c44fb5880d8090dc5b5367ec23f452ebbddd3edb
 
